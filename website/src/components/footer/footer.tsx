@@ -15,7 +15,7 @@ const Footer = () => {
             <h2 className="text-xl font-medium mb-2">Connect With Us</h2>
             <div className="flex space-x-4 text-2xl">
               <a
-                href="https://www.linkedin.com/in/your-linkedin-profile"
+                href="https://www.linkedin.com/in/aarontrelstad"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-isu_gold transition duration-300"
@@ -23,7 +23,7 @@ const Footer = () => {
                 <AiFillLinkedin />
               </a>
               <a
-                href="mailto:your-email@gmail.com"
+                href="mailto:isufintech@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-isu_gold transition duration-300"
