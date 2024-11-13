@@ -56,7 +56,7 @@ const members = [
         grade: "Sophomore",
         major: "Computer Science and Mathematics",
         linkedin: "https://www.linkedin.com/in/aarontrelstad/",
-        email: "aaron.trelstad@example.com",
+        email: "trelstad@iastate.edu",
         image: Aaron
     },
     {
@@ -65,7 +65,7 @@ const members = [
         grade: "Sophomore",
         major: "Computer Engineering",
         linkedin: "https://www.linkedin.com/in/jacobmumey/", 
-        email: "jacob.mumey@example.com", 
+        email: "jamumey@iastate.edu", 
         image: Jacob
     },
     {
@@ -74,7 +74,7 @@ const members = [
         grade: "Sophomore",
         major: "Mechanical Engineering",
         linkedin: "https://www.linkedin.com/in/nathan-goy-882639292/", 
-        email: "nathan.goy@example.com", 
+        email: "nategoy1@iastate.edu", 
         image: Nate
     },
     {
@@ -83,7 +83,7 @@ const members = [
         grade: "Sophomore",
         major: "Computer Science",
         linkedin: "https://www.linkedin.com/in/jackson-tagtmeier/", 
-        email: "jackson.tagtmeier@example.com", 
+        email: "jtagt@iastate.edu", 
         image: Jackson
     },
     {
@@ -92,7 +92,7 @@ const members = [
         grade: "Sophomore",
         major: "Computer Science",
         linkedin: "https://www.linkedin.com/in/asvantthparanidharan/", 
-        email: "asvantth.paranidharan@example.com", 
+        email: "asvantth@iastate.edu", 
         image: Asvantth
     },
     {
@@ -101,7 +101,7 @@ const members = [
         grade: "Sophomore",
         major: "Computer Science",
         linkedin: "https://www.linkedin.com/in/apillai08/", 
-        email: "abhinav.pillai@example.com", 
+        email: "abhip@iastate.edu", 
         image: Abhi
     },
 ];

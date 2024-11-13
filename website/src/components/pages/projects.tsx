@@ -70,7 +70,7 @@ const projects = [
         title: 'Club Website',
         status: "Review",
         description: 'Creating a centralized platform for club members to access resources, event information, and internal announcements. The website supports a user-friendly interface with easy navigation, allowing members to engage with club activities and materials.',
-        link: "https://github.com/",
+        link: "https://github.com/ISU-FinTech/ClubWebsite",
         techStack: ["TypeScript", "React", "TailwindCSS"]
     },
 ];
